@@ -1,0 +1,10 @@
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.csprojResolveAssemblyReference.cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.Form1.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.Properties.Resources.resources
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.csproj.GenerateResource.Cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.csproj.CoreCompileInputs.cache
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\bin\Debug\DataRetrivalSQL.exe.config
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\bin\Debug\DataRetrivalSQL.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\bin\Debug\DataRetrivalSQL.pdb
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.exe
+c:\users\cyberadmin\documents\visual studio 2017\Projects\DataRetrivalSQL\DataRetrivalSQL\obj\Debug\DataRetrivalSQL.pdb
